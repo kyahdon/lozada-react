@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lozada-react/static/css/main.17544c82.css",
+    "main.js": "/lozada-react/static/js/main.524aaa07.js",
+    "static/js/787.ca2f9404.chunk.js": "/lozada-react/static/js/787.ca2f9404.chunk.js",
+    "static/media/hero-dark.jpg": "/lozada-react/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "index.html": "/lozada-react/index.html",
+    "main.17544c82.css.map": "/lozada-react/static/css/main.17544c82.css.map",
+    "main.524aaa07.js.map": "/lozada-react/static/js/main.524aaa07.js.map",
+    "787.ca2f9404.chunk.js.map": "/lozada-react/static/js/787.ca2f9404.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17544c82.css",
+    "static/js/main.524aaa07.js"
+  ]
+}
